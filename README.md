@@ -14,13 +14,13 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="pythob" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/perl.svg" alt="perl" width="40" height="40"/>
-   </a>
-   <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="perl" width="40" height="40"/>
    </a>
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/php.svg" alt="vscode" width="40" height="40"/>
+   </a>
+   <a href="">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html.svg" alt="vscode" width="40" height="40"/>
    </a>
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="vscode" width="40" height="40"/>
