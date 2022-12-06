@@ -11,22 +11,22 @@
 
   <p align="center">
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="pythob" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="bash" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="perl" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="python" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/php.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/php.svg" alt="php" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/html.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html.svg" alt="html" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="vscode" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="css" width="40" height="40"/>
    </a>
        <a href="https://code.visualstudio.com/">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/wordpress.svg" alt="pythob" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="40" height="40"/>
    </a>
    <a href="https://code.visualstudio.com/">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
