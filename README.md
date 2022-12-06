@@ -10,25 +10,25 @@
 <br>
 
   <p align="center">
-   <a href="">
+   <a 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/bash.svg" alt="bash" width="40" height="40"/>
    </a>
-   <a href="">
+   <a h
       <img src="https://github.com/get-icon/geticon/blob/master/icons/python.svg" alt="python" width="40" height="40"/>
    </a>
-   <a href="">
+   <a
       <img src="https://github.com/get-icon/geticon/blob/master/icons/php.svg" alt="php" width="40" height="40"/>
    </a>
-   <a href="">
+   <a
       <img src="https://github.com/get-icon/geticon/blob/master/icons/html.svg" alt="html" width="40" height="40"/>
    </a>
-   <a href="">
+   <a 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="css" width="40" height="40"/>
    </a>
-       <a href="https://code.visualstudio.com/">
+       <a 
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="40" height="40"/>
    </a>
-   <a href="https://code.visualstudio.com/">
+   <a 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
    </a>
 </p>
