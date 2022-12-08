@@ -46,15 +46,15 @@
         <img alt="Paypal donate"
              src="https://img.shields.io/badge/Paypal-Donate!-%2300457C.svg?logo=paypal&style=flat-square">
     </a>
-    <a href"https://github.com/0xLoky?tab=followers">
+    <a href"https://github.com/Hashrok?tab=followers">
         <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/k0hrz?style=social" />
+             src="https://img.shields.io/github/followers/Hashrok?style=social" />
     </a>
-    <a href="https://twitter.com/NullTrunk">
+    <a href="https://twitter.com/Hashrok">
         <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/k0hrz?style=social">
+             src="https://img.shields.io/twitter/follow/Hashrok?style=social">
     </a>
     <a href="https://visitor-badge.glitch.me">
         <img alt="Visitors"
-            src="https://visitor-badge.glitch.me/badge?page_id=k0hrz.visitor-badge" />
+            src="https://visitor-badge.glitch.me/badge?page_id=Hashrok.visitor-badge" />
    </a> </p>
