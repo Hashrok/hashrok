@@ -20,7 +20,7 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/php.svg" alt="php" width="40" height="40"/>
    </a>
    <a href="">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/html.svg" alt="html" width="40" height="40"/>
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/html-5.svg" alt="html-5" width="40" height="40"/>
    </a>
    <a href="">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="vscode" width="40" height="40"/>
