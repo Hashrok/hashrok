@@ -3,7 +3,7 @@
 <p align="center">
 <div style="width: 10px;"></div>
 <div align="center">
-  <h2>Visitor number :<br>
+  <h2>Your visitor number<br>
   <p></p>
   <img src="https://profile-counter.glitch.me/Hashrok/count.svg" />
 </p>
