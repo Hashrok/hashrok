@@ -32,7 +32,8 @@
 <h4 align="center">
 
 <p align="left"> 
-  <h2>Visitor count<br>
+  <h2>Visitor :<br>
+  <p></p>
   <img src="https://profile-counter.glitch.me/Hashrok/count.svg" />
 </p>
 
