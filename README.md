@@ -29,9 +29,8 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="40" height="40"/>
    </a>
 </p>
-<h4 align="center">
 
-<p align="left"> 
+<p align="center"> 
   <h2>Visitor :<br>
   <p></p>
   <img src="https://profile-counter.glitch.me/Hashrok/count.svg" />
