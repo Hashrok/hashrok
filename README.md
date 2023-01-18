@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hashrok%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
 <div style="width: 10px;"></div>
-<a  href="https://.gg"><img align="right" src="https://discordapp.com/api/guilds//widget.png?style=banner4"/></a>
 
 ```css
 ┌──(root@hashrok)-[~]
