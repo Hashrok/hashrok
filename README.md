@@ -31,13 +31,10 @@
 </p>
 <h4 align="center">
 
-
-## **Buy me a coffee ☕**
-<h5 align="center">help our projects by making a donation, all the money raised is used for new projects</h5>
-<p align="center">
-    <a href="https://www.paypal.com/donate?hosted_button_id=NKQEXWK3RQDPQ&source=url">
-        <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="50" width="130" />
-    </a>
+<p align="left"> 
+  <h2>Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hashrok/count.svg" />
+</p>
 
 <p align="center">
 <div style="width: 10px;"></div>
