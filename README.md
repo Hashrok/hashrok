@@ -48,7 +48,4 @@
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/Hashrok?style=social">
     </a>
-    <a href="https://visitor-badge.glitch.me">
-        <img alt="Visitors"
-            src="https://visitor-badge.glitch.me/badge?page_id=Hashrok.visitor-badge" />
-   </a> </p>
+ </p>
