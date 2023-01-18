@@ -2,10 +2,17 @@
 <div style="width: 10px;"></div>
 <a  href="https://.gg"><img align="right" src="https://discordapp.com/api/guilds//widget.png?style=banner4"/></a>
 
-```C++
-#
-}
-``` 
+```css
+┌──(root@hashrok)-[~]
+└─# python3 nows.py
+
+Global Info:
+[1]Username: PLATIPUS#5696
+[2]Discord: .gg/TCdKx58Rvy 
+
+┌──(root@hashrok)-[~]
+└─#
+```
 </div><br>
 <br>
 
