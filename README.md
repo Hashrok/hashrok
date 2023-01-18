@@ -6,9 +6,7 @@
 ┌──(root@hashrok)-[~]
 └─# python3 nows.py
 
-Global Info:
-[1]Username: PLATIPUS#5696
-[2]Discord: .gg/TCdKx58Rvy 
+
 
 ┌──(root@hashrok)-[~]
 └─#
