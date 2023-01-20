@@ -45,10 +45,6 @@
 <p align="center">
 <div style="width: 10px;"></div>
 <div align="center">
-    <a href"https://github.com/Hashrok?tab=followers">
-        <img alt="GitHub followers" 
-             src="https://img.shields.io/github/followers/Hashrok?style=social" />
-    </a>
     <a href="https://twitter.com/Hashrok">
         <img alt="Twitter Follow" 
              src="https://img.shields.io/twitter/follow/Hashrok?style=social">
