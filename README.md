@@ -41,12 +41,4 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/mysql.svg" alt="mysql" width="40" height="40"/>
    </a>
 </p>
-<br
-<p align="center">
-<div style="width: 10px;"></div>
-<div align="center">
-    <a href="https://twitter.com/Hashrok">
-        <img alt="Twitter Follow" 
-             src="https://img.shields.io/twitter/follow/Hashrok?style=social">
-    </a>
- </p>
+
