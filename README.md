@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hashrok%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62)
+![header]([https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hashrok%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hashrok%20🏴‍☠️&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Pentesting%20Tool%20Scripting&descAlignY=51&descAlign=62&background=linear-gradient(to right, #000000, #00FF00)
+))
 <div style="width: 10px;"></div>
 <p align="center">
 <div style="width: 10px;"></div>
